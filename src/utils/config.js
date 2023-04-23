@@ -1,3 +1,3 @@
 
-export const BASE_URL = 'https://tb-lnrd.onrender.com/api/v1'
+export const BASE_URL = 'https://back-f4e2.onrender.com/api/v1'
 // export const BASE_URL = 'http://localhost:4000/api/v1'
